@@ -95,22 +95,22 @@ void main() {
 
         //concatenation
         var message = 'Hello' + ' my name is ';
-        const name = ‘Manushi ';
-        message += name; // 'Hello my name is Manushi'
+        const name = ‘Adarsh';
+        message += name; // 'Hello my name is Adarsh'
 
         final message = StringBuffer();
         message.write('Hello');
         message.write(' my name is ');
-        message.write('Manushi');
-        message.toString(); // "Hello my name is Manushi"
+        message.write('Adarsh');
+        message.toString(); // "Hello my name is Adarsh"
         //toString to convert the string bufferto the String type.
   */
   /*
  
         //Interpolation
 
-        const name = "Manushi ";
-        const intro = "Hello , My name is $name"; //Hello my name is Manushi
+        const name = "Adarsh ";
+        const intro = "Hello , My name is $name"; //Hello my name is Adarsh
 
         const oneThird = 1 / 3;
         const sentence = 'One third is $oneThird.'; //One third is 0.3333333333333333.
