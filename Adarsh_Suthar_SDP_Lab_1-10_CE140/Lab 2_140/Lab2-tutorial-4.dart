@@ -87,7 +87,7 @@ void main(List<String> arguments) {
   //3. Create a String constant named reader and set it to your name. Create another String constant named ray and set it to 'Ray Wenderlich'. Create a Boolean constant named rayIsReader that uses string equality to determine if reader and ray are equal.
 
   //False because strings are unequal
-  const reader = "Manushi Patel";
+  const reader = "Adarsh Suthar";
   const ray = "Ray Wenderlich";
   const rayIsReader = (reader == ray);
   print(rayIsReader);*/
